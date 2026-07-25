@@ -121,7 +121,7 @@ GitHub:
 (https://github.com/chinmay6148)
 
 LinkedIn:
-(Add your LinkedIn profile link)
+(https://www.linkedin.com/in/chinmay-sharma-626571341?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 

@@ -118,7 +118,7 @@ python "level 2/task4_restaurant_chains.py"
 **Chinmay Radheshyam Sharma**
 
 GitHub:
-(Add your GitHub profile link)
+(https://github.com/chinmay6148)
 
 LinkedIn:
 (Add your LinkedIn profile link)
